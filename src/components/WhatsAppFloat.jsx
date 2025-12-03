@@ -18,7 +18,7 @@ const WhatsAppFloat = () => {
         return () => clearTimeout(timer);
     }, []);
 
-    const whatsappNumber = "2341234567890"; // Replace with actual number
+    const whatsappNumber = "+2348035342100"; // Replace with actual number
     const message = "Hello! I would like to book an appointment at Berith Dental Services.";
     const whatsappUrl = `https://wa.me/${whatsappNumber}?text=${encodeURIComponent(message)}`;
 

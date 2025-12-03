@@ -67,7 +67,7 @@ const Navbar = () => {
                             <span className="text-sm">+234 123 456 789</span>
                         </a>
                         <a
-                            href="https://wa.me/2341234567890?text=Hello%2C%20I%20would%20like%20to%20book%20an%20appointment"
+                            href="https://wa.me/+2348035342100?text=Hello%2C%20I%20would%20like%20to%20book%20an%20appointment"
                             target="_blank"
                             rel="noopener noreferrer"
                             className="flex items-center gap-2 px-4 py-2 rounded-full bg-green-500 text-white hover:bg-green-600 transition-all hover:scale-105 font-medium"
@@ -124,7 +124,7 @@ const Navbar = () => {
                                     <span>+234 123 456 789</span>
                                 </a>
                                 <a
-                                    href="https://wa.me/2341234567890?text=Hello%2C%20I%20would%20like%20to%20book%20an%20appointment"
+                                    href="https://wa.me/+2348035342100?text=Hello%2C%20I%20would%20like%20to%20book%20an%20appointment"
                                     target="_blank"
                                     rel="noopener noreferrer"
                                     className="flex items-center gap-3 bg-green-500 text-white font-medium py-3 px-4 hover:bg-green-600 rounded-lg transition-colors"
